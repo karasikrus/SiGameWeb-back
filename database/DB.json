@@ -1,0 +1,41 @@
+{
+  "players":
+  [
+    {
+      "nickname": "test",
+      "imgURL": "test"
+    }
+  ],
+
+  "roomList":
+  [
+    {
+      "id": 0,
+      "currentRound": null,
+      "currentCategoryId": null,
+      "currentQuestionId": null,
+      "gameRounds": null,
+      "host":
+        {
+          "name": "vanya",
+          "avatarPictureUrl": null,
+        },
+      "maxPlayers": 3,
+      "name": "room one",
+      "password": null,
+      "players":
+        [
+
+        ],
+      "state": "",
+      "playerTurn": false,
+      "hostTurn": true,
+      "activePlayer": null
+    }
+  ],
+
+  "questionLis":
+  [
+
+  ]
+}
