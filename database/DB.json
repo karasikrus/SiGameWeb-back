@@ -15,18 +15,11 @@
       "currentCategoryId": null,
       "currentQuestionId": null,
       "gameRounds": null,
-      "host":
-        {
-          "name": "vanya",
-          "avatarPictureUrl": null,
-        },
+      "host": "vanya",
       "maxPlayers": 3,
       "name": "room one",
       "password": null,
-      "players":
-        [
-
-        ],
+      "players": [],
       "state": "",
       "playerTurn": false,
       "hostTurn": true,
@@ -34,8 +27,5 @@
     }
   ],
 
-  "questionLis":
-  [
-
-  ]
+  "questionLis": ""
 }
